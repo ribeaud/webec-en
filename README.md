@@ -1,16 +1,33 @@
-# WebEngineering
+# WebEngineering Module, Graded Exercise
 
-The idea behind it is to avoid any **Grails** installation on target computer. The students just
-check out the project and import it into **IntelliJ IDEA**. The IDE takes care of everything.
+## Commit Proposal
 
-To import the project, perform the following steps in **IntelliJ IDEA**:
+Matriculation Number: <to be filled by student>
 
-1. _Import Project..._ or _File > New > Project from Existing Sources..._  
-1. Select **Gradle** as _external model_:
-![Select Gradle Model](import_project.png)
-1. Uncheck _create separate module per source set_:
-![Select Gradle Model](gradle.png)
+Project idea short description: 
 
-BTW: 
-We created this [Grails](https://grails.org/) project for you by executing the command: `grails create-app webec`
-such that **you don't have to create it** yourself, you don't have to install **Grails**, and we all use the same Grails version.
+
+## Project confirmation
+
+< to be filled by lecturer>
+
+
+## Project delivery <to be filled by student>
+
+How to start the project: (if other than `grailsw run-app`)
+
+How to test the project:  (if other than `grailsw test-app`)
+
+Hand-written, static HTML 
+project description:      (if other than `index.html` in project root directory)
+
+External contributions:
+
+Other comments: 
+
+I'm particular proud of:
+
+
+## Project grading 
+
+< to be filled by lecturer>
